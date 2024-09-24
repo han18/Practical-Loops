@@ -15,9 +15,10 @@ for (let i = 0; i <= num; i++) {
 } else if (i % 5 == 0) {
     console.log("Buzz")
 } else if (i % 3 == 0 && i % 5 == 0) {
-    console.log("Fizz Buzz")
+    console.log("Fizz Buzzzzzzzzzzzz")
 } else if (i % 3 !== 0 && i % 5 !== 0) {
     console.log(`${i} not divisible by 3 or 5 `)
 }
+
 }
 
