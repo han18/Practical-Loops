@@ -80,9 +80,11 @@ for (let i = 0; i < splitCVS.length; i++) {
   console.log(cells[0], cells[1], cells[2], cells[3]);
 }
 
-let firstRow = "";
+let firstRow = " ";
 let arrayHolder = [];
 
 for (let i = 0; i < stringCVS.length; i++) {
     const rowSplit = stringCVS[i]; 
 }
+
+
