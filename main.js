@@ -88,3 +88,16 @@ for (let i = 0; i < stringCVS.length; i++) {
 }
 
 
+// I got the code from Charles since it wasn't easy
+// Part 5
+// let returnToCSV = "";
+// returnToCSV += Object.keys(objArray[0]).toString() + "\n";
+// for (let i = 0; i < objArray.length; i++) {
+//   // let objString = `${objArray[id],objArray[name],objArray[occupation],objArray[age],}`
+//   if (i != objArray.length - 1) {
+//     returnToCSV += Object.values(objArray[i]) + "\n";
+//   } else {
+//     returnToCSV += Object.values(objArray[i]);
+//   }
+// }
+// console.log(returnToCSV);
